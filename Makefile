@@ -1,4 +1,4 @@
-prefix=cv
+prefix=resume
 pdfreader=open
 all: $(prefix).pdf
 $(prefix).pdf: $(prefix).tex
